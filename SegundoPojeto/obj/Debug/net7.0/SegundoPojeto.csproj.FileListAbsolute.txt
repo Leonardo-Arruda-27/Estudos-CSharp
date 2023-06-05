@@ -1,0 +1,15 @@
+C:\Users\leo5d\Documents\Estudos\C#\Projetos\SegundoPojeto\bin\Debug\net7.0\SegundoPojeto.exe
+C:\Users\leo5d\Documents\Estudos\C#\Projetos\SegundoPojeto\bin\Debug\net7.0\SegundoPojeto.deps.json
+C:\Users\leo5d\Documents\Estudos\C#\Projetos\SegundoPojeto\bin\Debug\net7.0\SegundoPojeto.runtimeconfig.json
+C:\Users\leo5d\Documents\Estudos\C#\Projetos\SegundoPojeto\bin\Debug\net7.0\SegundoPojeto.dll
+C:\Users\leo5d\Documents\Estudos\C#\Projetos\SegundoPojeto\bin\Debug\net7.0\SegundoPojeto.pdb
+C:\Users\leo5d\Documents\Estudos\C#\Projetos\SegundoPojeto\obj\Debug\net7.0\SegundoPojeto.csproj.AssemblyReference.cache
+C:\Users\leo5d\Documents\Estudos\C#\Projetos\SegundoPojeto\obj\Debug\net7.0\SegundoPojeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leo5d\Documents\Estudos\C#\Projetos\SegundoPojeto\obj\Debug\net7.0\SegundoPojeto.AssemblyInfoInputs.cache
+C:\Users\leo5d\Documents\Estudos\C#\Projetos\SegundoPojeto\obj\Debug\net7.0\SegundoPojeto.AssemblyInfo.cs
+C:\Users\leo5d\Documents\Estudos\C#\Projetos\SegundoPojeto\obj\Debug\net7.0\SegundoPojeto.csproj.CoreCompileInputs.cache
+C:\Users\leo5d\Documents\Estudos\C#\Projetos\SegundoPojeto\obj\Debug\net7.0\SegundoPojeto.dll
+C:\Users\leo5d\Documents\Estudos\C#\Projetos\SegundoPojeto\obj\Debug\net7.0\refint\SegundoPojeto.dll
+C:\Users\leo5d\Documents\Estudos\C#\Projetos\SegundoPojeto\obj\Debug\net7.0\SegundoPojeto.pdb
+C:\Users\leo5d\Documents\Estudos\C#\Projetos\SegundoPojeto\obj\Debug\net7.0\SegundoPojeto.genruntimeconfig.cache
+C:\Users\leo5d\Documents\Estudos\C#\Projetos\SegundoPojeto\obj\Debug\net7.0\ref\SegundoPojeto.dll

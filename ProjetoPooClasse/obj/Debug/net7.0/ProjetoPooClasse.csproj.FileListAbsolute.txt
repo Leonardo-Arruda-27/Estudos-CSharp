@@ -1,0 +1,15 @@
+C:\Users\leo5d\Documents\Estudos\C#\Projetos\ProjetoPooClasse\bin\Debug\net7.0\ProjetoPooClasse.exe
+C:\Users\leo5d\Documents\Estudos\C#\Projetos\ProjetoPooClasse\bin\Debug\net7.0\ProjetoPooClasse.deps.json
+C:\Users\leo5d\Documents\Estudos\C#\Projetos\ProjetoPooClasse\bin\Debug\net7.0\ProjetoPooClasse.runtimeconfig.json
+C:\Users\leo5d\Documents\Estudos\C#\Projetos\ProjetoPooClasse\bin\Debug\net7.0\ProjetoPooClasse.dll
+C:\Users\leo5d\Documents\Estudos\C#\Projetos\ProjetoPooClasse\bin\Debug\net7.0\ProjetoPooClasse.pdb
+C:\Users\leo5d\Documents\Estudos\C#\Projetos\ProjetoPooClasse\obj\Debug\net7.0\ProjetoPooClasse.csproj.AssemblyReference.cache
+C:\Users\leo5d\Documents\Estudos\C#\Projetos\ProjetoPooClasse\obj\Debug\net7.0\ProjetoPooClasse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leo5d\Documents\Estudos\C#\Projetos\ProjetoPooClasse\obj\Debug\net7.0\ProjetoPooClasse.AssemblyInfoInputs.cache
+C:\Users\leo5d\Documents\Estudos\C#\Projetos\ProjetoPooClasse\obj\Debug\net7.0\ProjetoPooClasse.AssemblyInfo.cs
+C:\Users\leo5d\Documents\Estudos\C#\Projetos\ProjetoPooClasse\obj\Debug\net7.0\ProjetoPooClasse.csproj.CoreCompileInputs.cache
+C:\Users\leo5d\Documents\Estudos\C#\Projetos\ProjetoPooClasse\obj\Debug\net7.0\ProjetoPooClasse.dll
+C:\Users\leo5d\Documents\Estudos\C#\Projetos\ProjetoPooClasse\obj\Debug\net7.0\refint\ProjetoPooClasse.dll
+C:\Users\leo5d\Documents\Estudos\C#\Projetos\ProjetoPooClasse\obj\Debug\net7.0\ProjetoPooClasse.pdb
+C:\Users\leo5d\Documents\Estudos\C#\Projetos\ProjetoPooClasse\obj\Debug\net7.0\ProjetoPooClasse.genruntimeconfig.cache
+C:\Users\leo5d\Documents\Estudos\C#\Projetos\ProjetoPooClasse\obj\Debug\net7.0\ref\ProjetoPooClasse.dll

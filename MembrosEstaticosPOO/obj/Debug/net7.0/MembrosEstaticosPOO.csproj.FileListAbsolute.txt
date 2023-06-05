@@ -1,0 +1,15 @@
+C:\Users\leo5d\Documents\Estudos\C#\Projetos\MembrosEstaticosPOO\bin\Debug\net7.0\MembrosEstaticosPOO.exe
+C:\Users\leo5d\Documents\Estudos\C#\Projetos\MembrosEstaticosPOO\bin\Debug\net7.0\MembrosEstaticosPOO.deps.json
+C:\Users\leo5d\Documents\Estudos\C#\Projetos\MembrosEstaticosPOO\bin\Debug\net7.0\MembrosEstaticosPOO.runtimeconfig.json
+C:\Users\leo5d\Documents\Estudos\C#\Projetos\MembrosEstaticosPOO\bin\Debug\net7.0\MembrosEstaticosPOO.dll
+C:\Users\leo5d\Documents\Estudos\C#\Projetos\MembrosEstaticosPOO\bin\Debug\net7.0\MembrosEstaticosPOO.pdb
+C:\Users\leo5d\Documents\Estudos\C#\Projetos\MembrosEstaticosPOO\obj\Debug\net7.0\MembrosEstaticosPOO.csproj.AssemblyReference.cache
+C:\Users\leo5d\Documents\Estudos\C#\Projetos\MembrosEstaticosPOO\obj\Debug\net7.0\MembrosEstaticosPOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leo5d\Documents\Estudos\C#\Projetos\MembrosEstaticosPOO\obj\Debug\net7.0\MembrosEstaticosPOO.AssemblyInfoInputs.cache
+C:\Users\leo5d\Documents\Estudos\C#\Projetos\MembrosEstaticosPOO\obj\Debug\net7.0\MembrosEstaticosPOO.AssemblyInfo.cs
+C:\Users\leo5d\Documents\Estudos\C#\Projetos\MembrosEstaticosPOO\obj\Debug\net7.0\MembrosEstaticosPOO.csproj.CoreCompileInputs.cache
+C:\Users\leo5d\Documents\Estudos\C#\Projetos\MembrosEstaticosPOO\obj\Debug\net7.0\MembrosEstaticosPOO.dll
+C:\Users\leo5d\Documents\Estudos\C#\Projetos\MembrosEstaticosPOO\obj\Debug\net7.0\refint\MembrosEstaticosPOO.dll
+C:\Users\leo5d\Documents\Estudos\C#\Projetos\MembrosEstaticosPOO\obj\Debug\net7.0\MembrosEstaticosPOO.pdb
+C:\Users\leo5d\Documents\Estudos\C#\Projetos\MembrosEstaticosPOO\obj\Debug\net7.0\MembrosEstaticosPOO.genruntimeconfig.cache
+C:\Users\leo5d\Documents\Estudos\C#\Projetos\MembrosEstaticosPOO\obj\Debug\net7.0\ref\MembrosEstaticosPOO.dll

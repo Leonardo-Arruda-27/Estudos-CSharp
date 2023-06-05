@@ -1,0 +1,15 @@
+C:\Users\leo5d\Documents\Estudos\C#\Projetos\TesteAdisra\obj\Debug\net7.0\TesteAdisra.csproj.AssemblyReference.cache
+C:\Users\leo5d\Documents\Estudos\C#\Projetos\TesteAdisra\obj\Debug\net7.0\TesteAdisra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leo5d\Documents\Estudos\C#\Projetos\TesteAdisra\obj\Debug\net7.0\TesteAdisra.AssemblyInfoInputs.cache
+C:\Users\leo5d\Documents\Estudos\C#\Projetos\TesteAdisra\obj\Debug\net7.0\TesteAdisra.AssemblyInfo.cs
+C:\Users\leo5d\Documents\Estudos\C#\Projetos\TesteAdisra\obj\Debug\net7.0\TesteAdisra.csproj.CoreCompileInputs.cache
+C:\Users\leo5d\Documents\Estudos\C#\Projetos\TesteAdisra\bin\Debug\net7.0\TesteAdisra.exe
+C:\Users\leo5d\Documents\Estudos\C#\Projetos\TesteAdisra\bin\Debug\net7.0\TesteAdisra.deps.json
+C:\Users\leo5d\Documents\Estudos\C#\Projetos\TesteAdisra\bin\Debug\net7.0\TesteAdisra.runtimeconfig.json
+C:\Users\leo5d\Documents\Estudos\C#\Projetos\TesteAdisra\bin\Debug\net7.0\TesteAdisra.dll
+C:\Users\leo5d\Documents\Estudos\C#\Projetos\TesteAdisra\bin\Debug\net7.0\TesteAdisra.pdb
+C:\Users\leo5d\Documents\Estudos\C#\Projetos\TesteAdisra\obj\Debug\net7.0\TesteAdisra.dll
+C:\Users\leo5d\Documents\Estudos\C#\Projetos\TesteAdisra\obj\Debug\net7.0\refint\TesteAdisra.dll
+C:\Users\leo5d\Documents\Estudos\C#\Projetos\TesteAdisra\obj\Debug\net7.0\TesteAdisra.pdb
+C:\Users\leo5d\Documents\Estudos\C#\Projetos\TesteAdisra\obj\Debug\net7.0\TesteAdisra.genruntimeconfig.cache
+C:\Users\leo5d\Documents\Estudos\C#\Projetos\TesteAdisra\obj\Debug\net7.0\ref\TesteAdisra.dll
